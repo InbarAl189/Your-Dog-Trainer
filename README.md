@@ -1,7 +1,8 @@
 # Your-Dog-Trainer
 ## Your Dog Trainer application for android, developed as part of Android course
 
-** Screenshots **
+**Screenshots**
+
 [![main.jpg](https://i.postimg.cc/sfcxj1bH/main.jpg)](https://postimg.cc/vD4bX8Y5)
 [![details.jpg](https://i.postimg.cc/0jcycHp1/details.jpg)](https://postimg.cc/p55vdCGs)
 [![pictures.jpg](https://i.postimg.cc/8Pz5jNSp/pictures.jpg)](https://postimg.cc/PN0h7GJ9)
