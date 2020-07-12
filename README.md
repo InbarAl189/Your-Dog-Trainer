@@ -3,9 +3,9 @@
 
 **Screenshots:**
 
-[![main.jpg](https://i.postimg.cc/hGzYg9QZ/main.jpg)](https://postimg.cc/Tyx0J59n) 
-[![details.jpg](https://i.postimg.cc/JzhgYwrL/details.jpg)](https://postimg.cc/ykwvWb3Q) 
-[![pictures.jpg](https://i.postimg.cc/CK3QKzjh/pictures.jpg)](https://postimg.cc/zLkjtDt6) 
-[![date-hour.jpg](https://i.postimg.cc/zX76kD17/date-hour.jpg)](https://postimg.cc/3dyt8TN0) 
-[![end.jpg](https://i.postimg.cc/zGPQ9dvR/end.jpg)](https://postimg.cc/YvY8Fz1p)
+[![main.jpg](https://i.postimg.cc/pTkz6SVw/main.jpg)](https://postimg.cc/dkkh74y6) 
+[![details.jpg](https://i.postimg.cc/yNmFFdMY/details.jpg)](https://postimg.cc/FfKdv9F2) 
+[![pictures.jpg](https://i.postimg.cc/0jQDRCbb/pictures.jpg)](https://postimg.cc/FdM703b4) 
+[![date-hour.jpg](https://i.postimg.cc/7L83G7QW/date-hour.jpg)](https://postimg.cc/fVCt13sc) 
+[![end.jpg](https://i.postimg.cc/26CnTYYd/end.jpg)](https://postimg.cc/Ffnfs271)
 
